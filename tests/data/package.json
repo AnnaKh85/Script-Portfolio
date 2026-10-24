@@ -1,0 +1,114 @@
+{
+  "packageId": "demo-package",
+  "structure": {
+    "packageId": "demo-package",
+    "estimates": [
+      {
+        "estimateId": "demo-local-01",
+        "type": "LOCAL",
+        "name": "Synthetic estimate A",
+        "data": {
+          "summary": {
+            "building": {
+              "base": {
+                "value": "12.35"
+              },
+              "current": {
+                "value": "24.00"
+              }
+            },
+            "mounting": {
+              "base": {
+                "value": "2.00"
+              },
+              "current": {
+                "value": "4.00"
+              }
+            },
+            "equipment": {
+              "base": {
+                "value": "3.00"
+              },
+              "current": {
+                "value": "6.00"
+              }
+            },
+            "totalPrice": {
+              "base": {
+                "value": "17.35"
+              },
+              "current": {
+                "value": "35.00"
+              }
+            },
+            "summaryLaborCost": {
+              "value": "7.25"
+            },
+            "other": {
+              "base": {
+                "value": "0.00"
+              },
+              "current": {
+                "value": "1.00"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "databaseSnapshot": {
+    "demo-local-01": {
+      "type": "LOCAL",
+      "status": "XLSX_READY",
+      "report_name": "Synthetic estimate A",
+      "local_ctx": {
+        "summary": {
+          "building": {
+            "base": {
+              "value": "12.35"
+            },
+            "current": {
+              "value": "24.00"
+            }
+          },
+          "mounting": {
+            "base": {
+              "value": "2.00"
+            },
+            "current": {
+              "value": "4.00"
+            }
+          },
+          "equipment": {
+            "base": {
+              "value": "3.00"
+            },
+            "current": {
+              "value": "6.00"
+            }
+          },
+          "otherPrice": {
+            "base": {
+              "value": "0.00"
+            },
+            "current": {
+              "value": "1.00"
+            }
+          },
+          "totalPrice": {
+            "base": {
+              "value": "17.35"
+            },
+            "current": {
+              "value": "35.00"
+            }
+          },
+          "summaryLaborCost": {
+            "value": "7.25"
+          }
+        }
+      }
+    }
+  }
+}

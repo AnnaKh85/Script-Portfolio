@@ -1,0 +1,45 @@
+{
+  "building": {
+    "base": {
+      "value": "12.35"
+    },
+    "current": {
+      "value": "24.00"
+    }
+  },
+  "mounting": {
+    "base": {
+      "value": "2.00"
+    },
+    "current": {
+      "value": "4.00"
+    }
+  },
+  "equipment": {
+    "base": {
+      "value": "3.00"
+    },
+    "current": {
+      "value": "6.00"
+    }
+  },
+  "otherPrice": {
+    "base": {
+      "value": "0.00"
+    },
+    "current": {
+      "value": "1.00"
+    }
+  },
+  "totalPrice": {
+    "base": {
+      "value": "17.35"
+    },
+    "current": {
+      "value": "35.00"
+    }
+  },
+  "summaryLaborCost": {
+    "value": "7.25"
+  }
+}

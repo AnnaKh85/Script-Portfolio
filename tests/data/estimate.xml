@@ -1,0 +1,9 @@
+<Document>
+  <Object><Estimate><EstimatePrice>
+    <Building><Total><PriceBase>12345</PriceBase><PriceCurrent>24000</PriceCurrent></Total></Building>
+    <Mounting><Total><PriceBase>2000</PriceBase><PriceCurrent>4000</PriceCurrent></Total></Mounting>
+    <Equipment><Total><PriceBase>3000</PriceBase><PriceCurrent>6000</PriceCurrent></Total></Equipment>
+    <Other><PriceBase>0</PriceBase><PriceCurrent>1000,5</PriceCurrent></Other>
+    <Summary><LaborCosts>7.25</LaborCosts></Summary>
+  </EstimatePrice></Estimate></Object>
+</Document>
